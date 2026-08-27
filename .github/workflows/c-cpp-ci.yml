@@ -1,0 +1,24 @@
+name: C/C++ Continuous Integration Compilation Profile
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  build-and-profile:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Checkout Source Code Repository Core
+        uses: actions/checkout@v4
+
+      - name: Verify Native GCC Version Core Bounds
+        run: gcc --version
+
+      - name: Compile Desktop Benchmark Matrix suppressing Constant Optimization
+        run: gcc -O0 src/desktop_sim/benchmark.c -o benchmark_bin
+
+      - name: Execute Profiling Verification Binary Sequence
+        run: ./benchmark_bin

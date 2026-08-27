@@ -53,3 +53,19 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Enforce suppression of desktop compiled outputs
+benchmark
+benchmark_bin
+*.o
+*.out
+
+# Filter out standard platform text/editor fragments
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# ESP32 build footprint isolation
+build/
+sdkconfig
