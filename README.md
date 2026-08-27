@@ -1,11 +1,11 @@
 # Secure-Edge-PWLCM-Benchmark
 
 <!-- Repository Status and Metadata Badges -->
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![Language: C](https://shields.io)](https://mozilla.org)
-[![Platform: Ubuntu%2020.04-LTS](https://shields.io)](https://ubuntu.com)
-[![Target: ESP32%20Xtensa](https://shields.io)](https://espressif.com)
-[![Academic-Tier: Q1%20Informatics](https://shields.io)](https://ieee-iotj.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/license/mit-0)
+[![Academic-Tier: Q1 Informatics](https://img.shields.io/badge/Academic--Tier-Q1%20Informatics-blue)](https://ieee-iotj.org)
+[![Language: C](https://img.shields.io/badge/Language-C-blue)](https://cppreference.com/c)
+[![Platform: Ubuntu 20.04.6 LTS](https://img.shields.io/badge/Platform-Ubuntu%2020.04.6%20LTS-orange)](https://ubuntu.com)
+[![Target: ESP32 Xtensa](https://img.shields.io/badge/Target-ESP32%20Tensilica%20Xtensa%2032--bit-red)](https://documentation.espressif.com/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)
 
 Empirical replication repository for **Paper B: The Power-Constrained Edge & Communication Network** within the PhD thesis framework at the University of Buea.
 
