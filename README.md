@@ -69,14 +69,14 @@ This cryptographic core downscales the following mathematical multi-stability an
 1. **Njitacke, Z. T., Sone, M. E., Fozin, T. F., Tsafack, N., Leutcho, G. D., & Tchapga, C. T. (2021).** 
    *Control of multistability with selection of chaotic attractor: application to image encryption.* 
    *The European Physical Journal Special Topics*, 230(7), 1839–1854.
-   * Authentically Hosted on Springer: [https://www.doi.org/10.1140/epjs/s11734-021-00137-6](https://springer.com)
+   * Authentically Hosted on Springer: [https://www.doi.org/10.1140/epjs/s11734-021-00137-6](https://www.doi.org/10.1140/epjs/s11734-021-00137-6)
 
 2. **Njitacke, Z. T., Nkapkop, J. D. D., Signing, V. R. F., Tsafack, N., Sone, M. E., & Awrejcewicz, J. (2023).** 
    *Novel extreme multistable tabu learning neuron: Circuit implementation and application to cryptography.* 
    *IEEE Transactions on Industrial Informatics*, 19(8), 8943–8952.
-   * Authentically Hosted on IEEE Xplore: [https://www.doi.org/10.1109/TII.2022.3223233](https://ieee.org)
+   * Authentically Hosted on IEEE Xplore: [https://www.doi.org/10.1109/TII.2022.3223233](https://www.doi.org/10.1109/TII.2022.3223233)
 
 3. **Yemélé, D., Azangue, A. B., Sone, M. E., Fotsin, H., Nono, M. K., & Ngouonkadi, E. B. M. (2024).** 
    *Stability and synchronization in neural network with delayed synaptic connections.* 
    *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 34(2), 023133.
-   * Authentically Hosted on AIP Publishing: [https://www.doi.org/10.1063/5.0175408](https://aip.org)
+   * Authentically Hosted on AIP Publishing: [https://www.doi.org/10.1063/5.0175408](https://www.doi.org/10.1063/5.0175408)
