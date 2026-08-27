@@ -1,11 +1,11 @@
 # Secure-Edge-PWLCM-Benchmark
 
 <!-- Repository Status and Metadata Badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/license/mit-0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org)
 [![Academic-Tier: Q1 Informatics](https://img.shields.io/badge/Academic--Tier-Q1%20Informatics-blue)](https://ieee-iotj.org)
 [![Language: C](https://img.shields.io/badge/Language-C-blue)](https://cppreference.com/c)
 [![Platform: Ubuntu 20.04.6 LTS](https://img.shields.io/badge/Platform-Ubuntu%2020.04.6%20LTS-orange)](https://ubuntu.com)
-[![Target: ESP32 Xtensa](https://img.shields.io/badge/Target-ESP32%20Tensilica%20Xtensa%2032--bit-red)](https://documentation.espressif.com/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)
+[![Target: ESP32 Xtensa](https://img.shields.io/badge/Target-ESP32%20Tensilica%20Xtensa%2032--bit-red)](https://documentation.espressif.com/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.html)
 
 Empirical replication repository for **Paper B: The Power-Constrained Edge & Communication Network** within the PhD thesis framework at the University of Buea.
 
@@ -63,7 +63,20 @@ gcc -O0 benchmark.c -o benchmark
 ```
 
 ## 📜 Supervisory Reference Base
-This cryptography core ports and downscales the following high-dimensional multi-stability baselines established by the University of Buea and ICT University supervisory clusters:
-1. **Njitacke, Sone, et al. (2021)** - Attractor Selection Strategy: [https://doi.org](https://doi.org)
-2. **Njitacke, Sone, et al. (2023)** - Tabu Learning Chaotic Neuron: [https://doi.org](https://doi.org)
-3. **Sone (2018)** - Cross-Layer Hardware Network Security Scheme: [https://doi.org](https://doi.org)
+
+This cryptographic core downscales the following mathematical multi-stability and hardware synchronization baselines established by the University of Buea and ICT University faculty networks:
+
+1. **Njitacke, Z. T., Sone, M. E., Fozin, T. F., Tsafack, N., Leutcho, G. D., & Tchapga, C. T. (2021).** 
+   *Control of multistability with selection of chaotic attractor: application to image encryption.* 
+   *The European Physical Journal Special Topics*, 230(7), 1839–1854.
+   * Authentically Hosted on Springer: [https://www.doi.org/10.1140/epjs/s11734-021-00137-6](https://springer.com)
+
+2. **Njitacke, Z. T., Nkapkop, J. D. D., Signing, V. R. F., Tsafack, N., Sone, M. E., & Awrejcewicz, J. (2023).** 
+   *Novel extreme multistable tabu learning neuron: Circuit implementation and application to cryptography.* 
+   *IEEE Transactions on Industrial Informatics*, 19(8), 8943–8952.
+   * Authentically Hosted on IEEE Xplore: [https://www.doi.org/10.1109/TII.2022.3223233](https://ieee.org)
+
+3. **Yemélé, D., Azangue, A. B., Sone, M. E., Fotsin, H., Nono, M. K., & Ngouonkadi, E. B. M. (2024).** 
+   *Stability and synchronization in neural network with delayed synaptic connections.* 
+   *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 34(2), 023133.
+   * Authentically Hosted on AIP Publishing: [https://www.doi.org/10.1063/5.0175408](https://aip.org)
